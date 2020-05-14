@@ -1,4 +1,4 @@
-pipelineJob("pipeline-eb-admin-portal-upgrade-1") {
+pipelineJob("project-a/pipeline-eb-admin-portal-upgrade-1") {
 	description()
 	keepDependencies(false)
 	definition {
